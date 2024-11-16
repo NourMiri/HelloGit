@@ -1,0 +1,5 @@
+info
+maths
+windows
+linux
+devellopement
